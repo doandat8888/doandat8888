@@ -1,6 +1,6 @@
 ## Introduction :mega:
 
-Hello! I'm Doan Tran Ba Dat. Currently, I've graduated from UEH University, and my major is Software Engineering. I want to become a fullstack developer, and I hope to find a place where I can contribute, learn and growth more.
+Hello! I'm Doan Tran Ba Dat. Currently, I've graduated from UEH University, and my major is Software Technology. I want to become a fullstack developer, and I hope to find a place where I can contribute, learn and growth more.
 
 ## Skills :computer:
 
