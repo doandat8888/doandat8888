@@ -3,7 +3,7 @@ Hello! I'm Doan Tran Ba Dat. Currently, I've graduated from UEH University, and 
 ## Skills
 
 - Programming languages: Javascript, Java, Go, C#
-- Frameworks, libraries: ReactJS, Express, Spring, Gin
+- Frameworks, libraries: ReactJS, Express, Spring, Gin, .NET
 - Databases: MongoDB, MySQL, MS SQL Server
 - Tools: Git, Docker, AWS
 
