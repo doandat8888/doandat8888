@@ -11,8 +11,8 @@ Hello! I'm Doan Tran Ba Dat. Currently, I've graduated from UEH University, and 
 
 If you'd like to get in touch with me or learn more about me, you can contact me via:
 
-- Email: badatdoan@gmail.com
-- LinkedIn: https://www.linkedin.com/in/doantranbadat/
+- Email: badatdoan@gmail.com :email:
+- LinkedIn: https://www.linkedin.com/in/doantranbadat/ :linkedin:
 
 
 Feel free to reach out and connect with me, I'm always open to networking and collaboration!
